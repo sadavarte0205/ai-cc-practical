@@ -1,0 +1,9 @@
+PRACTICAL 6 Add, Sub, Mul, Div
+
+Integer a = 20;
+Integer b = 10;
+
+System.debug('Addition = ' + (a+b));
+System.debug('Subtraction = ' + (a-b));
+System.debug('Multiplication = ' + (a*b));
+System.debug('Division = ' + (a/b));

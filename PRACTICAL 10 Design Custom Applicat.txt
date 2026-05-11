@@ -1,0 +1,16 @@
+PRACTICAL 10 Design Custom Application in Salesforce
+
+
+Simple Explanation
+
+Custom application is created in Salesforce
+ to manage records and data.
+
+Steps
+Login to Salesforce
+Open Setup
+Search “App Manager”
+Click “New Lightning App”
+Enter app name
+Add tabs and objects
+Save and Launch app

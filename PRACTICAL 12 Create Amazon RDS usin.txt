@@ -1,0 +1,15 @@
+PRACTICAL 12 Create Amazon RDS using AWS Educate
+
+Simple Explanation
+
+RDS is database service in AWS cloud.
+
+Steps
+Login to AWS Educate
+Open RDS service
+Click “Create Database”
+Select MySQL/PostgreSQL
+Enter database name
+Set username and password
+Click Create Database
+Database instance will start running

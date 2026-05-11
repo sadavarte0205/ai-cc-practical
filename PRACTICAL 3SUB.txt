@@ -1,0 +1,8 @@
+PRACTICAL 3
+Integer a = 20;
+Integer b = 10;
+Integer sub;
+
+sub = a - b;
+
+System.debug('Subtraction = ' + sub);

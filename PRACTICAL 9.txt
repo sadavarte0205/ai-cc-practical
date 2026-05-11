@@ -1,0 +1,3 @@
+PRACTICAL 9
+
+System.debug('Welcome');

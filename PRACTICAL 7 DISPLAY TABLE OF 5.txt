@@ -1,0 +1,8 @@
+PRACTICAL 7 DISPLAY TABLE OF 5
+
+Integer n = 5;
+
+for(Integer i=1; i<=10; i++)
+{
+    System.debug(n + ' x ' + i + ' = ' + (n*i));
+}

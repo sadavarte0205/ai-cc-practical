@@ -1,0 +1,9 @@
+PRACTICAL 5 DIV
+
+Integer a = 20;
+Integer b = 5;
+Integer div;
+
+div = a / b;
+
+System.debug('Division = ' + div);

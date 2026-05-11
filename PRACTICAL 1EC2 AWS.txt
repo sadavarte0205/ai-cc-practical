@@ -1,0 +1,15 @@
+PRACTICAL 1
+
+Simple Explanation
+
+EC2 is a virtual computer in cloud provided by Amazon Web Services.
+
+Steps
+Login to AWS Educate
+Open EC2 service
+Click “Launch Instance”
+Select Ubuntu/Windows OS
+Choose instance type
+Create key pair
+Click Launch
+Instance will start running

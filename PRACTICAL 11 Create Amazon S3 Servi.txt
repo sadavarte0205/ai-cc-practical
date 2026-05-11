@@ -1,0 +1,14 @@
+PRACTICAL 11 Create Amazon S3 Service using AWS Educate
+
+Simple Explanation
+
+S3 is cloud storage service in AWS.
+
+Steps
+Login to AWS Educate
+Open S3 service
+Click “Create Bucket”
+Enter bucket name
+Select region
+Click Create
+Upload files into bucket

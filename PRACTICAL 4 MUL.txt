@@ -1,0 +1,9 @@
+PRACTICAL 4
+
+Integer a = 10;
+Integer b = 5;
+Integer mul;
+
+mul = a * b;
+
+System.debug('Multiplication = ' + mul);
